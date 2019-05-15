@@ -16,7 +16,7 @@ public class Test1{
         Test.stopTest();
     }
     @isTest public static void someTest4(){
-        Test.startTest();
+        Test.startTest()
         TestClass999.getAccounts();
         Test.stopTest();
     }
